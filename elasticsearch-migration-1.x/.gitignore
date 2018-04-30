@@ -1,0 +1,6 @@
+/.external*
+/.project
+/.settings/*
+
+test/
+tmp/
